@@ -1,4 +1,4 @@
-# 🇻🇳 Vietnamese Text Summarization & Machine Translation  
+# Vietnamese Text Summarization & Machine Translation  
 ### _A Personal Deep Learning Project using Transformers, GPT, and Reinforcement Learning_
 
 This project explores how modern NLP models can **summarize Vietnamese text** and **translate English ↔ Vietnamese**, while also experimenting with how **Reinforcement Learning (RL)** can improve model quality and output stability.
