@@ -94,4 +94,4 @@ vi_sents_dataset.txt
 ---
 ### Clone the repository
 ```bash
-git clone https://github.com/quocduy1234231/Vietnamese-Text-Summarization-Translation.git
+git clone https://github.com/ngduy-dev/Vietnamese-Text-Summarization-Translation.git
